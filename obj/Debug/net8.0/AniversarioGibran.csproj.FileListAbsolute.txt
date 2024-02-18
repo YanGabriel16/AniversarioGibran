@@ -1,0 +1,14 @@
+C:\Users\Yan\Desktop\Outros\Nova pasta (2)\AniversarioGibran\obj\Debug\net8.0\AniversarioGibran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yan\Desktop\Outros\Nova pasta (2)\AniversarioGibran\obj\Debug\net8.0\AniversarioGibran.AssemblyInfoInputs.cache
+C:\Users\Yan\Desktop\Outros\Nova pasta (2)\AniversarioGibran\obj\Debug\net8.0\AniversarioGibran.AssemblyInfo.cs
+C:\Users\Yan\Desktop\Outros\Nova pasta (2)\AniversarioGibran\obj\Debug\net8.0\AniversarioGibran.csproj.CoreCompileInputs.cache
+C:\Users\Yan\Desktop\Outros\Nova pasta (2)\AniversarioGibran\bin\Debug\net8.0\AniversarioGibran.exe
+C:\Users\Yan\Desktop\Outros\Nova pasta (2)\AniversarioGibran\bin\Debug\net8.0\AniversarioGibran.deps.json
+C:\Users\Yan\Desktop\Outros\Nova pasta (2)\AniversarioGibran\bin\Debug\net8.0\AniversarioGibran.runtimeconfig.json
+C:\Users\Yan\Desktop\Outros\Nova pasta (2)\AniversarioGibran\bin\Debug\net8.0\AniversarioGibran.dll
+C:\Users\Yan\Desktop\Outros\Nova pasta (2)\AniversarioGibran\bin\Debug\net8.0\AniversarioGibran.pdb
+C:\Users\Yan\Desktop\Outros\Nova pasta (2)\AniversarioGibran\obj\Debug\net8.0\AniversarioGibran.dll
+C:\Users\Yan\Desktop\Outros\Nova pasta (2)\AniversarioGibran\obj\Debug\net8.0\refint\AniversarioGibran.dll
+C:\Users\Yan\Desktop\Outros\Nova pasta (2)\AniversarioGibran\obj\Debug\net8.0\AniversarioGibran.pdb
+C:\Users\Yan\Desktop\Outros\Nova pasta (2)\AniversarioGibran\obj\Debug\net8.0\AniversarioGibran.genruntimeconfig.cache
+C:\Users\Yan\Desktop\Outros\Nova pasta (2)\AniversarioGibran\obj\Debug\net8.0\ref\AniversarioGibran.dll
